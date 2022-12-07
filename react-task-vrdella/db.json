@@ -1,0 +1,25 @@
+{
+    "user": [
+        {
+            "studentname": "Adam",
+            "status": "pass",
+            "email": "adam@gmail.com",
+            "contact": "8367367",
+            "id": 1
+        },
+        {
+            "studentname": "Tommy",
+            "status": "fail",
+            "email": "tom@gmail.com",
+            "contact": "83786646476",
+            "id": 2
+        },
+        {
+            "studentname": "Jane",
+            "status": "onhold",
+            "email": "Jane@gmail.com",
+            "contact": "878378467",
+            "id": 3
+        }
+    ]
+}
